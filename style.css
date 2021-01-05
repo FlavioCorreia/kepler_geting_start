@@ -1,0 +1,21 @@
+h1, .h1 {
+    font-size: 66px;
+    font-family: "Trebuchet MS";
+    font-size: 2.5em !important;
+    color: rgb(243,104,33);
+}
+
+body {
+  background-color: lightblue;
+}
+
+h2 {
+  color:rgb(243,104,33);
+  margin-left: 200px;
+
+}
+
+p, .p {
+  margin-left: 200px;
+  
+}
